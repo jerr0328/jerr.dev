@@ -1,0 +1,10 @@
+baseURL = "https://jerr.dev/"
+languageCode = "en-us"
+title = "Jerr.dev"
+theme = "ananke"
+
+[params]
+  description = "Jeremy's Development Blog"
+  twitter = "https://twitter.com/jerr"
+  github = "https://github.com/jerr0328"
+  recent_posts_number = 3
