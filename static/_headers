@@ -9,4 +9,4 @@
     # Disable plugins like Flash or Silverlight
     # Load images, scripts, stylesheets and fonts from self
     # Send reports to report-uri.io
-    Content-Security-Policy: default-src 'none'; object-src 'none'; img-src 'self'; script-src 'self'; style-src 'self'; font-src 'self'; report-uri https://jerr.report-uri.io/r/d/csp/enforce;
+    Content-Security-Policy: frame-ancestors 'none'; default-src 'none'; object-src 'none'; img-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; font-src 'self'; report-uri https://jerr.report-uri.io/r/d/csp/enforce;
