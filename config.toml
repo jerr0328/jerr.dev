@@ -8,3 +8,4 @@ theme = "ananke"
   twitter = "https://twitter.com/jerr"
   github = "https://github.com/jerr0328"
   recent_posts_number = 3
+  show_reading_time = true
