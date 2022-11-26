@@ -9,3 +9,5 @@ theme = "ananke"
   github = "https://github.com/jerr0328"
   recent_posts_number = 3
   show_reading_time = true
+  date_format = "2. January 2006"
+  mastodon = "https://mastodon.social/@jerr0328"
