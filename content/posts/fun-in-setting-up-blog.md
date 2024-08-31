@@ -1,7 +1,6 @@
 ---
 title: "Fun in Setting Up a Blog"
 date: 2024-08-31T18:11:21+03:00
-draft: true
 ---
 
 I created this five years ago and then haven't written any posts.
