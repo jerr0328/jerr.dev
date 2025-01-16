@@ -2,7 +2,7 @@
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
   X-Content-Type-Options: nosniff
-  Content-Security-Policy: frame-ancestors 'none'; default-src 'none'; object-src 'none'; img-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; font-src 'self'; report-uri https://jerr.report-uri.io/r/d/csp/enforce;
+  Content-Security-Policy: frame-ancestors 'none'; default-src 'none'; object-src 'none'; img-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; font-src 'self';
 
 https://:project.pages.dev/*
   X-Robots-Tag: noindex
