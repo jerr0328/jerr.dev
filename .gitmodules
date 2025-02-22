@@ -1,4 +1,3 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
-	url = https://github.com/jerr0328/gohugo-theme-ananke.git
-	branch = fix/social-map
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
