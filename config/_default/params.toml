@@ -1,0 +1,34 @@
+description = "Jeremy's Development Blog"
+recent_posts_number = 3
+show_reading_time = true
+date_format = "2. January 2006"
+
+[ananke.social.follow]
+networks = ["bluesky", "github", "linkedin", "mastodon", "wikipedia"]
+
+[ananke.social.share]
+sharetext = false
+networks = ["email", "bluesky", "linkedin"]
+
+[ananke.social.bluesky]
+username = "jerr.dev"
+
+[ananke.social.github]
+username = "jerr0328"
+
+[ananke.social.linkedin]
+username = "jmayeres"
+rel = "me"
+
+[ananke.social.mastodon]
+profilelink = "https://mastodon.social/@jerr0328"
+rel = "me"
+
+[ananke.social.wikipedia]
+username = "Jerr0328"
+
+[ananke.social.networks.wikipedia]
+label = "Wikipedia"
+color = "#0645ad"
+profile = "https://en.wikipedia.org/wiki/User:%s"
+icon = "wikipedia-w"
