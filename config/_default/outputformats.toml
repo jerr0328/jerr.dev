@@ -1,0 +1,6 @@
+[humanjson]
+mediaType = "application/json"
+baseName = "human"
+isPlainText = true
+rel = "human-json"
+root = true
