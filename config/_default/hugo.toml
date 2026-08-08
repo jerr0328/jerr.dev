@@ -1,4 +1,4 @@
 baseURL = "https://jerr.dev/"
-languageCode = "en-us"
+locale = "en-us"
 title = "Jerr.dev"
 theme = "ananke"
